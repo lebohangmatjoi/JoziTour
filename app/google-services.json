@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "136283321588",
+    "firebase_url": "https://jozitour.firebaseio.com",
+    "project_id": "jozitour",
+    "storage_bucket": "jozitour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136283321588:android:769194ca8987b71b",
+        "android_client_info": {
+          "package_name": "com.example.admin.jozitour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136283321588-poa4j0g3v0k1ccbr0hqrhbm0cqnbd4i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.jozitour",
+            "certificate_hash": "742f63f59d7aab356b50a36718dafa52e7acdf4c"
+          }
+        },
+        {
+          "client_id": "136283321588-6kulpslh5us2i1a66u4l5jr62qkb1q42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DsyzBwk7GyrL0FdHidtI2u6HcFx2F-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136283321588-6kulpslh5us2i1a66u4l5jr62qkb1q42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
